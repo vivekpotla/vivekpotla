@@ -3,7 +3,7 @@
 
 ## Hey, I'm Vivek Potla 👋
 
-![gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp=100*80)
+![gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 
 ### About Me
 - 🎓 I'm a Pre-final year Computer Science student at VNR VJIET, HYDERABAD .
