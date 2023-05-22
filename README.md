@@ -3,6 +3,8 @@
 
 ## Hey, I'm Vivek Potla 👋
 
+![gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
+
 ### About Me
 - 🎓 I'm a Pre-final year Computer Science student at VNR VJIET, HYDERABAD .
 - 👀 I'm interested in Software Development,Cloud Computing, Design & Competitive Programming in C++ .
@@ -43,5 +45,6 @@ Here are some ideas to get you started:
     <img align="left" alt="GMail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>  
 </p>
+
 
 
