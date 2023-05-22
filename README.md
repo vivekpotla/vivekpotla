@@ -44,4 +44,4 @@ Here are some ideas to get you started:
   </a>  
 </p>
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
