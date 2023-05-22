@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://gpvc.arturio.dev/vivekpotla" alt="profile views">  -->
 
 <!-- ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekpotla&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpotla&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpotla&layout=compact?jupyter=false)
 
 
 
