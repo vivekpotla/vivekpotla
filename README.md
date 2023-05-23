@@ -6,7 +6,7 @@
 ![gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 
 ### About Me
-- 🎓 I'm a Pre-final year Computer Science student at VNR VJIET, HYDERABAD .
+- 🎓 I'm a Pre-final year Computer Science undergraduate at VNR VJIET, HYDERABAD .
 - 👀 I'm interested in Software Development,Cloud Computing, Design & Competitive Programming in C++ .
 - 🌱 I’m currently learning and exploring full stack web development and Machine Learning.
 - 🎮 I also enjoy photography.
